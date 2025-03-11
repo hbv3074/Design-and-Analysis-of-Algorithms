@@ -31,10 +31,3 @@ This repository contains a collection of algorithms and problem-solving techniqu
 9. **8_strong_password.py**  
    Python script to check and generate strong passwords based on various security rules.
 
-## Getting Started
-
-To run any of the Python scripts in this repository, follow these steps:
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/repo-name.git
